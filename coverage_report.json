@@ -1,70 +1,13 @@
 {
-  "question_count": 576,
-  "new_concept_questions": 92,
-  "topics": {
-    "Tổng quan": 100,
-    "Phân tầng": 49,
-    "Ứng dụng": 85,
-    "Vật lý": 69,
-    "Vận chuyển": 90,
-    "IPv4": 183
+  "total": 200,
+  "by_topic": {
+    "Tổng quan": 30,
+    "Phân tầng": 35,
+    "Ứng dụng": 38,
+    "Vật lý": 30,
+    "Vận chuyển": 35,
+    "IPv4": 32
   },
-  "sources": [
-    {
-      "file": "C7_The_Engine_of_Digital_Logistics_En (1).pptx",
-      "slides": 15,
-      "slides_with_extractable_text": 0
-    },
-    {
-      "file": "C7_Transport_Layer_Essentials_Vn.pptx",
-      "slides": 15,
-      "slides_with_extractable_text": 0
-    },
-    {
-      "file": "Chapter 1  2 - Introduction  Layered Architecture (2).pptx",
-      "slides": 77,
-      "slides_with_extractable_text": 77
-    },
-    {
-      "file": "Chapter 3 - Physical Layer.pptx",
-      "slides": 35,
-      "slides_with_extractable_text": 35
-    },
-    {
-      "file": "Chapter 3_Physical_Layer_Fundamentals_En (1).pptx",
-      "slides": 14,
-      "slides_with_extractable_text": 0
-    },
-    {
-      "file": "Chapter 7 - Transport Layer.pptx",
-      "slides": 81,
-      "slides_with_extractable_text": 81
-    },
-    {
-      "file": "Chapter_1_v8.2 (3).pptx",
-      "slides": 88,
-      "slides_with_extractable_text": 88
-    },
-    {
-      "file": "Chapter_2_Application Layer - Vn.pptx",
-      "slides": 44,
-      "slides_with_extractable_text": 44
-    },
-    {
-      "file": "Chapter_2_Application Layer-edited (2).pptx",
-      "slides": 44,
-      "slides_with_extractable_text": 44
-    },
-    {
-      "file": "Chủ đề 2_Application_Layer_Decoded_NBLM.pptx",
-      "slides": 14,
-      "slides_with_extractable_text": 0
-    },
-    {
-      "file": "Chủ đề 3_Physical_Layer_Blueprint.pptx",
-      "slides": 15,
-      "slides_with_extractable_text": 0
-    }
-  ],
-  "note": "Slide không trích xuất được chữ có thể chứa chữ dưới dạng ảnh; chưa kiểm chứng bao phủ 100% các hình minh họa."
+  "criteria": "Chọn câu trọng tâm từ bộ 532 câu; giới hạn số bài tính thay số; loại trùng nguyên văn; chưa xác minh toàn bộ trùng nghĩa và độ bao phủ từng slide.",
+  "source": "MMT_OSI_TCPIP_Cap_Nhat.zip"
 }

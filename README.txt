@@ -1,5 +1,5 @@
-Sui Network Quiz - mo rong tu tai lieu goc
+SUI MMT - 200 CAU TRONG TAM
 Mo index.html de hoc offline.
-Cau hoi: 576
-Bao cao nguon: coverage_report.json
-Luu y: slide dang anh chua duoc doi chieu thu cong; khong cam ket bao phu 100%.
+Tong 200 cau, thu tu co dinh.
+Ghi chu: cau hoi duoc tuyen chon tu bo 532 cau truoc; chua chung minh bao phu 100% tai lieu goc.
+De cap nhat GitHub Pages, chep tat ca file vao thu muc MMT va push.
